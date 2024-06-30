@@ -1,6 +1,16 @@
-# dune init proj ocaml_problems
+# dune exec bin/main.exe
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Shared cache location: /Users/chakhva/.cache/dune/db
 # Workspace root: /Users/chakhva/Dev/Personal/OCaml/ocaml_problems
 # Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/chakhva/.opam/default/bin/ocamlc.opt -config > /var/folders/_6/92__7rf14038wdkg7ff23pt80000gn/T/dune_f49cec_output
