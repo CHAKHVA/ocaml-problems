@@ -64,6 +64,4 @@ dune test
 ## Learning Resources
 
 - [Official OCaml Website](https://ocaml.org/)
-- [99 Problems on OCaml.org](https://ocaml.org/problems)
-- [Real World OCaml](https://dev.realworldocaml.org/)
-- [OCaml Manual](https://ocaml.org/manual/)
+- [99 Problems on OCaml.org](https://ocaml.org/exercises)
